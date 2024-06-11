@@ -1,3 +1,6 @@
+![CatMaiV's github activity graph](https://raw.githubusercontent.com/CatMaiV/CatMaiV/output/github-contribution-grid-snake.svg)
+
+
 ## 有关
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatMaiV&theme=dracula&locale=cn&langs_count=4&layout=compact)
 
